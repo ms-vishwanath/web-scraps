@@ -1,0 +1,1746 @@
+{
+    "storeProducts": [
+        {
+            "objectId": "ced7b355-2303-4ff8-a459-f3c8a54a1a88",
+            "id": "ced7b355-2303-4ff8-a459-f3c8a54a1a88",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "381f68e2-cfe1-41e5-8f5a-7d0c7bc59e09",
+                "name": "Tide Plus Detergent Washing Powder - Lavender",
+                "brand": "Tide",
+                "imported": false,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [],
+                "howToUse": [],
+                "ingredients": "",
+                "description": [],
+                "l3CategoryIds": [
+                    "503c63e5-681e-4c02-bce7-e8caf663bf66"
+                ]
+            },
+            "productVariant": {
+                "id": "7e431494-4d7e-48f5-a9e4-7276e57533a9",
+                "mrp": 87500,
+                "packsize": 7,
+                "unitOfMeasure": "KILOGRAM",
+                "weightInGms": 7000,
+                "formattedPacksize": null,
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "7a27dc8e-89a1-4340-bed2-8d0fe8b6f849",
+                        "name": "bddab1cb-0fe6-42c0-8083-57bda7ae4915.jpg",
+                        "path": "cms/product_variant/bddab1cb-0fe6-42c0-8083-57bda7ae4915.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "69ccf56e-7516-4cc7-813b-7a0d68172e57",
+                        "name": "d03f317d-1aaa-4527-84c3-f8c570945c7a.jpg",
+                        "path": "cms/product_variant/d03f317d-1aaa-4527-84c3-f8c570945c7a.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "a206c2b4-d53b-4a4f-9463-a0a283f0c3fa",
+                        "name": "b89ef584-64e2-4f78-b6fe-670733d9e622.jpg",
+                        "path": "cms/product_variant/b89ef584-64e2-4f78-b6fe-670733d9e622.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "45f3e025-982a-4bb1-b5cf-84333c6fa81d",
+                        "name": "4d4fa2ad-6512-4588-b97d-8b49ff0c000d.jpg",
+                        "path": "cms/product_variant/4d4fa2ad-6512-4588-b97d-8b49ff0c000d.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "9755fc84-3757-4306-843c-00050ac75c0c",
+                        "name": "eabeaff8-5cd8-4317-b864-51c38b06daca.jpg",
+                        "path": "cms/product_variant/eabeaff8-5cd8-4317-b864-51c38b06daca.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 6,
+                "shelfLifeInHours": "24 months",
+                "nutritionalInfo": null,
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "packsizeV2": 7,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 66500,
+            "discountPercent": 24,
+            "discountAmount": 21000,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-15T18:03:03.774Z",
+            "outOfStock": true,
+            "mrp": 87500,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 87500,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "0f6ab67d-bae5-421c-9002-567b009f807a",
+                    "isDiscounted": false,
+                    "storeProductId": "ced7b355-2303-4ff8-a459-f3c8a54a1a88",
+                    "pricingCampaignType": "PriceUpdate"
+                },
+                {
+                    "campaignType": "PromoCapping",
+                    "campaignId": "",
+                    "isDiscounted": true,
+                    "storeProductId": "ced7b355-2303-4ff8-a459-f3c8a54a1a88",
+                    "pricingCampaignType": "PromoCapping"
+                }
+            ],
+            "primarySubcategoryName": "Detergent Powder & Bars",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "KILOGRAM",
+            "pricePerUom": 950,
+            "unitOfMeasure": "KILOGRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {
+                "nonPassDiscountTier": "TIER_2",
+                "nonPassTotalDiscount": 21000
+            },
+            "superSaverSellingPrice": 60000,
+            "primarySubcategoryId": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+        },
+        {
+            "objectId": "8c9eccb2-05de-463a-968e-f1e2b76c9dc7",
+            "id": "8c9eccb2-05de-463a-968e-f1e2b76c9dc7",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "bd5aefff-adbd-4f17-ad26-584280543e2f",
+                "name": "Godrej Fab Liquid Detergent Refill Pouch For Machine & Hand Wash 1 kg Combo  ",
+                "brand": "BUNDLE",
+                "imported": true,
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [
+                    "",
+                    "",
+                    "",
+                    "0",
+                    "liquid detergents & additives",
+                    "detergent liquid"
+                ],
+                "howToUse": [],
+                "ingredients": "",
+                "description": [],
+                "l3CategoryIds": [
+                    "f238e5de-8fcc-447f-99c2-eea0d0ddb41a"
+                ]
+            },
+            "productVariant": {
+                "id": "bca3f6a3-16ef-4cc5-af89-c66b6e030d0f",
+                "mrp": 29700,
+                "packsize": 3,
+                "unitOfMeasure": "COMBO",
+                "weightInGms": 300,
+                "formattedPacksize": "1 kg X 3",
+                "variantPriority": 0,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "980c0b36-64c1-4f89-ba95-78b36084da94",
+                        "name": "e24a2af6-f033-4d8a-b0a4-7170666a902d.jpg",
+                        "path": "cms/product_variant/e24a2af6-f033-4d8a-b0a4-7170666a902d.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1494,
+                        "height": 1494,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": false
+                    }
+                ],
+                "maxAllowedQuantity": 4,
+                "nutritionalInfo": null,
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "packsizeV2": 3,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 27300,
+            "discountPercent": 8,
+            "discountAmount": 2400,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-16T05:36:04.313Z",
+            "outOfStock": true,
+            "mrp": 29700,
+            "productType": "BUNDLE",
+            "priority": 0,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 27300,
+            "isActive": true,
+            "bundleItems": [
+                {
+                    "id": "04b632c4-9af6-4202-9647-4f875dc07768",
+                    "bundleId": "8c9eccb2-05de-463a-968e-f1e2b76c9dc7",
+                    "storeProductId": "04b632c4-9af6-4202-9647-4f875dc07768",
+                    "name": "Godrej Fab Liquid Detergent Refill Pouch For Machine & Hand Wash",
+                    "image": [
+                        {
+                            "id": "872b7c24-738e-47e7-8810-c5a9dc7d0def",
+                            "name": "0d101ba4-0e20-44b1-b31f-36880dd6a69b.jpeg",
+                            "path": "cms/product_variant/0d101ba4-0e20-44b1-b31f-36880dd6a69b.jpeg",
+                            "mediaType": "IMAGE",
+                            "width": 1600,
+                            "height": 1600,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": true
+                        },
+                        {
+                            "id": "8f441e4d-42e5-4058-8ffb-a50fc7d9dc58",
+                            "name": "bb55468a-9938-497f-8821-a1b28067e4ce.jpeg",
+                            "path": "cms/product_variant/bb55468a-9938-497f-8821-a1b28067e4ce.jpeg",
+                            "mediaType": "IMAGE",
+                            "width": 1600,
+                            "height": 1600,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": true
+                        },
+                        {
+                            "id": "defc3418-630d-4f79-b1aa-abe484c4232a",
+                            "name": "3390c333-bc69-4150-bf08-3ca83bde4abe.jpeg",
+                            "path": "cms/product_variant/3390c333-bc69-4150-bf08-3ca83bde4abe.jpeg",
+                            "mediaType": "IMAGE",
+                            "width": 1600,
+                            "height": 1600,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": true
+                        },
+                        {
+                            "id": "1d90837f-77c1-4e8e-8168-1612e8664ddc",
+                            "name": "7b9eea24-b3d9-4309-bdd3-024d6148e3e6.jpeg",
+                            "path": "cms/product_variant/7b9eea24-b3d9-4309-bdd3-024d6148e3e6.jpeg",
+                            "mediaType": "IMAGE",
+                            "width": 1600,
+                            "height": 1600,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": true
+                        },
+                        {
+                            "id": "a145ee99-863a-43f5-9de6-c8e93e724da3",
+                            "name": "b4e404a6-b223-4330-9e0e-b9d1b6a146b2.jpeg",
+                            "path": "cms/product_variant/b4e404a6-b223-4330-9e0e-b9d1b6a146b2.jpeg",
+                            "mediaType": "IMAGE",
+                            "width": 1600,
+                            "height": 1600,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": true
+                        }
+                    ],
+                    "mrp": 9900,
+                    "sellingPrice": 9100,
+                    "quantity": 3,
+                    "packsize": 1,
+                    "weightInGms": 100,
+                    "unitOfMeasure": "KILOGRAM",
+                    "formattedPacksize": "1 kg",
+                    "bundleItemQuantity": 3,
+                    "productVariantId": "4b090a8a-5954-4cb7-943f-37307bacd11c",
+                    "maxAllowedQuantity": 6,
+                    "bundleType": "COMBO",
+                    "productType": "SELLABLESKU",
+                    "superSaverSellingPrice": 24000
+                }
+            ],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "da8249ca-4664-443b-bade-3342017c7459",
+                    "isDiscounted": false,
+                    "storeProductId": "04b632c4-9af6-4202-9647-4f875dc07768",
+                    "pricingCampaignType": "PriceUpdate"
+                },
+                {
+                    "campaignType": "BundleDiscount",
+                    "campaignId": "8c9eccb2-05de-463a-968e-f1e2b76c9dc7",
+                    "isDiscounted": true,
+                    "storeProductId": "04b632c4-9af6-4202-9647-4f875dc07768",
+                    "pricingCampaignType": "BundleDiscount"
+                }
+            ],
+            "primarySubcategoryName": "Liquid Detergents & Additives",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "KILOGRAM",
+            "pricePerUom": 910,
+            "unitOfMeasure": "COMBO",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {
+                "nonPassDiscountTier": "TIER_2",
+                "nonPassTotalDiscount": 2400
+            },
+            "superSaverSellingPrice": 24000,
+            "primarySubcategoryId": "dfb37880-b40f-4783-9502-a56e12edbabc"
+        },
+        {
+            "objectId": "8462f401-2f0a-4546-8740-72e28a20569d",
+            "id": "8462f401-2f0a-4546-8740-72e28a20569d",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "e2250980-1eb4-4462-97e9-75b096e2e573",
+                "name": "Surf Excel Easy Wash Detergent Powder",
+                "brand": "Surf Excel",
+                "imported": false,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [
+                    "",
+                    "",
+                    "",
+                    "Detergent Powder",
+                    "offer",
+                    "detergent powder"
+                ],
+                "howToUse": [],
+                "ingredients": "",
+                "manufacturerName": "Hindustan Unilever Ltd",
+                "manufacturerAddress": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Anderi E, Mumbai - 400099.",
+                "description": [],
+                "l3CategoryIds": [
+                    "503c63e5-681e-4c02-bce7-e8caf663bf66"
+                ]
+            },
+            "productVariant": {
+                "id": "4c2fc8ec-dfde-49db-9031-8f8795898919",
+                "mrp": 23500,
+                "packsize": 1500,
+                "unitOfMeasure": "GRAM",
+                "weightInGms": 1500,
+                "formattedPacksize": "1.5 kg",
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "305f328a-d1ed-47a5-ab9a-dcc50cbaf1a0",
+                        "name": "61ec57e6-3ad9-472e-8ae7-9e1957aa4f1d.jpeg",
+                        "path": "cms/product_variant/61ec57e6-3ad9-472e-8ae7-9e1957aa4f1d.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1100,
+                        "height": 1100,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "dec1cf8d-d337-40fc-b690-f46daeeaf886",
+                        "name": "ca5e2f43-0344-4ce4-b1c2-ec44ead8c825.jpeg",
+                        "path": "cms/product_variant/ca5e2f43-0344-4ce4-b1c2-ec44ead8c825.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "7515246f-b52b-498d-81a6-c25a4b208087",
+                        "name": "9f951e6e-b4ff-473d-8875-828b88fa7629.jpeg",
+                        "path": "cms/product_variant/9f951e6e-b4ff-473d-8875-828b88fa7629.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "14232219-d3f6-43d6-8e79-1d4ffb939f7b",
+                        "name": "7a87659e-ea93-4524-8c18-7238bcddf36f.jpeg",
+                        "path": "cms/product_variant/7a87659e-ea93-4524-8c18-7238bcddf36f.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "c40acd21-4d0b-4376-a61f-297e51873b20",
+                        "name": "c476e536-02f9-4997-8232-2befa9bb08b1.jpeg",
+                        "path": "cms/product_variant/c476e536-02f9-4997-8232-2befa9bb08b1.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "4a3eba1e-5a47-4bb0-abda-f8a7d5163bdc",
+                        "name": "f188171b-7cd7-4760-9e19-e2c417cb8b6d.jpeg",
+                        "path": "cms/product_variant/f188171b-7cd7-4760-9e19-e2c417cb8b6d.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "1fe9c07c-e104-4d25-9169-5e1530b9f802",
+                        "name": "91dd60c6-b8a4-4ca0-bed0-e8cef7dd4969.jpeg",
+                        "path": "cms/product_variant/91dd60c6-b8a4-4ca0-bed0-e8cef7dd4969.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 12,
+                "shelfLifeInHours": "24 months",
+                "nutritionalInfo": null,
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "packsizeV2": 1500,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 22000,
+            "discountPercent": 6,
+            "discountAmount": 1500,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-14T13:47:13.024Z",
+            "outOfStock": true,
+            "mrp": 23500,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 22000,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "c41e69dd-5578-4cba-b00b-a412a18d8c1e",
+                    "isDiscounted": true,
+                    "storeProductId": "8462f401-2f0a-4546-8740-72e28a20569d",
+                    "pricingCampaignType": "PriceUpdate"
+                }
+            ],
+            "primarySubcategoryName": "Detergent Powder & Bars",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "GRAM",
+            "pricePerUom": 1400,
+            "unitOfMeasure": "GRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {
+                "nonPassDiscountTier": "TIER_2",
+                "nonPassTotalDiscount": 1500
+            },
+            "superSaverSellingPrice": 19800,
+            "primarySubcategoryId": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+        },
+        {
+            "objectId": "54e3a239-ddc8-4ebc-94b1-f50ae59f59b7",
+            "id": "54e3a239-ddc8-4ebc-94b1-f50ae59f59b7",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "fbc119be-7764-4dac-89ac-a2c3466c0fd8",
+                "name": "Surf Excel Detergent Bar",
+                "brand": "Surf Excel",
+                "imported": false,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [
+                    "",
+                    "",
+                    "",
+                    "Detergent Bar",
+                    "detergent bar",
+                    "detergent powder & bars",
+                    "surf excel soap"
+                ],
+                "howToUse": [],
+                "ingredients": "",
+                "manufacturerName": "Hindustan Unilever Limited",
+                "manufacturerAddress": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Anderi E, Mumbai - 400099.",
+                "description": [],
+                "l3CategoryIds": [
+                    "964b9308-805d-4732-9faf-d577e82d783c"
+                ]
+            },
+            "productVariant": {
+                "id": "6112f7bf-38ee-4dbf-9afb-9d0b36d6ff2a",
+                "mrp": 12500,
+                "packsize": 800,
+                "unitOfMeasure": "GRAM",
+                "weightInGms": 800,
+                "formattedPacksize": "200 g X 4",
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "88465fb8-43ab-49e4-9013-9ac1bdd1391e",
+                        "name": "095681ff-ce98-4ebd-a6e2-b64ebfdd04ac.jpeg",
+                        "path": "cms/product_variant/095681ff-ce98-4ebd-a6e2-b64ebfdd04ac.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "203925a6-b3a7-4f6a-ab53-337d8816f55f",
+                        "name": "00bf2b59-fe7f-47d6-ae47-c8127f7956f0.jpeg",
+                        "path": "cms/product_variant/00bf2b59-fe7f-47d6-ae47-c8127f7956f0.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "fc81d8c0-bce3-4c15-be31-ac6173715913",
+                        "name": "437ebe0c-8c77-48f1-999a-f30e0103e797.jpeg",
+                        "path": "cms/product_variant/437ebe0c-8c77-48f1-999a-f30e0103e797.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "bf340a3f-8b59-4651-8df6-d2537b80b9f9",
+                        "name": "da0769d3-4f2d-4c28-8d25-1c4b5adb9cf9.jpeg",
+                        "path": "cms/product_variant/da0769d3-4f2d-4c28-8d25-1c4b5adb9cf9.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "07987eaa-eee9-416d-9335-8183a25e07f2",
+                        "name": "92d248ca-ccfb-43a5-843e-f1b922d0e9ed.jpeg",
+                        "path": "cms/product_variant/92d248ca-ccfb-43a5-843e-f1b922d0e9ed.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 12,
+                "shelfLifeInHours": "24 months",
+                "storageInstructions": "",
+                "packagingType": "",
+                "fssaiLicense": "",
+                "nutritionalInfo": "",
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "cuisineType": "",
+                "productTheme": "",
+                "packsizeV2": 800,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 12500,
+            "discountPercent": 0,
+            "discountAmount": 0,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-15T09:43:10.220Z",
+            "outOfStock": true,
+            "mrp": 12500,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 12500,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "dca48242-142b-4dc3-9148-cd6fcf5d671f",
+                    "isDiscounted": false,
+                    "storeProductId": "54e3a239-ddc8-4ebc-94b1-f50ae59f59b7",
+                    "pricingCampaignType": "PriceUpdate"
+                }
+            ],
+            "primarySubcategoryName": "Detergent Powder & Bars",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "GRAM",
+            "pricePerUom": 1500,
+            "unitOfMeasure": "GRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {},
+            "superSaverSellingPrice": 11300,
+            "primarySubcategoryId": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+        },
+        {
+            "objectId": "10642dea-5f26-4357-91e1-dc9fc29f2d72",
+            "id": "10642dea-5f26-4357-91e1-dc9fc29f2d72",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "f2e4a24f-77bd-45cc-9c1f-7af56b8ceb03",
+                "name": "Tide Plus Detergent Washing Powder - Lavender",
+                "brand": "Tide",
+                "imported": false,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [],
+                "howToUse": [],
+                "ingredients": "",
+                "description": [],
+                "l3CategoryIds": [
+                    "503c63e5-681e-4c02-bce7-e8caf663bf66"
+                ]
+            },
+            "productVariant": {
+                "id": "7c867e02-8e74-4c79-9e0e-8662af68ee05",
+                "mrp": 65900,
+                "packsize": 5,
+                "unitOfMeasure": "KILOGRAM",
+                "weightInGms": 5000,
+                "formattedPacksize": null,
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "e8d68ab0-8ae0-4d6c-93be-659d09f3184b",
+                        "name": "58a698f3-0886-43c7-a21e-fb62ad2c339d.jpg",
+                        "path": "cms/product_variant/58a698f3-0886-43c7-a21e-fb62ad2c339d.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "8ecd12ae-6f1e-416e-bcc0-cec86f814147",
+                        "name": "3192bfd6-b646-478c-ad27-3d679970489d.jpg",
+                        "path": "cms/product_variant/3192bfd6-b646-478c-ad27-3d679970489d.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "eb3d79f2-4c88-4b3e-9eb8-dadd76b2e74a",
+                        "name": "25f18326-16eb-4d2c-87e4-7b9e6d7a2c65.jpg",
+                        "path": "cms/product_variant/25f18326-16eb-4d2c-87e4-7b9e6d7a2c65.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "51c8c70c-4832-44bb-99dd-185928e6ff42",
+                        "name": "4d38633d-29cc-42b0-8303-2a569a99271d.jpg",
+                        "path": "cms/product_variant/4d38633d-29cc-42b0-8303-2a569a99271d.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "45e6876e-08b3-407e-9b32-1a9eb0c61930",
+                        "name": "bab9b42c-81c5-4c04-b021-172a1d831f3b.jpg",
+                        "path": "cms/product_variant/bab9b42c-81c5-4c04-b021-172a1d831f3b.jpg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 6,
+                "shelfLifeInHours": "24 months",
+                "nutritionalInfo": null,
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "packsizeV2": 5,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 57400,
+            "discountPercent": 12,
+            "discountAmount": 8500,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-15T18:04:53.360Z",
+            "outOfStock": true,
+            "mrp": 65900,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 65900,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "0f6ab67d-bae5-421c-9002-567b009f807a",
+                    "isDiscounted": false,
+                    "storeProductId": "10642dea-5f26-4357-91e1-dc9fc29f2d72",
+                    "pricingCampaignType": "PriceUpdate"
+                },
+                {
+                    "campaignType": "PromoCapping",
+                    "campaignId": "",
+                    "isDiscounted": true,
+                    "storeProductId": "10642dea-5f26-4357-91e1-dc9fc29f2d72",
+                    "pricingCampaignType": "PromoCapping"
+                }
+            ],
+            "primarySubcategoryName": "Detergent Powder & Bars",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "KILOGRAM",
+            "pricePerUom": 1148,
+            "unitOfMeasure": "KILOGRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {
+                "nonPassDiscountTier": "TIER_2",
+                "nonPassTotalDiscount": 8500
+            },
+            "superSaverSellingPrice": 52400,
+            "primarySubcategoryId": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+        },
+        {
+            "objectId": "04b632c4-9af6-4202-9647-4f875dc07768",
+            "id": "04b632c4-9af6-4202-9647-4f875dc07768",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "bcf7ac42-32e2-421f-8ad9-1b355dbe4515",
+                "name": "Godrej Fab Liquid Detergent Refill Pouch For Machine & Hand Wash",
+                "brand": "Godrej Fab",
+                "imported": false,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [
+                    "",
+                    "",
+                    "",
+                    "Bucket Wash Liquid",
+                    "bucket wash liquid",
+                    "liquid detergents & additives"
+                ],
+                "howToUse": [],
+                "ingredients": "",
+                "manufacturerName": "(A) Rama Krishna Packaging Private Limited. (B) Indogreen Plastic Technologies. (C) Poclean Ventures Pvt Ltd.",
+                "manufacturerAddress": "(A) Rama Krishna Packaging Private Limited, Plot No: 33b, 33c & 33d, Sidco Pharmaceutical Complex, Alathur - 603 110, Tamil Nadu. (B) Indogreen Plastic Technologies, Baddi (HP)-173205 (C) Poclean Ventures Pvt Ltd, Plot No 101-102 Adakanahalli Industrial Area, Hobli Chikkalanachatra, Nanjangud Taluk Mysuru District, Karnatka Pin-571 302",
+                "description": [],
+                "l3CategoryIds": [
+                    "f238e5de-8fcc-447f-99c2-eea0d0ddb41a"
+                ]
+            },
+            "productVariant": {
+                "id": "4b090a8a-5954-4cb7-943f-37307bacd11c",
+                "mrp": 9900,
+                "packsize": 1,
+                "unitOfMeasure": "KILOGRAM",
+                "weightInGms": 100,
+                "formattedPacksize": "1 kg",
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "872b7c24-738e-47e7-8810-c5a9dc7d0def",
+                        "name": "0d101ba4-0e20-44b1-b31f-36880dd6a69b.jpeg",
+                        "path": "cms/product_variant/0d101ba4-0e20-44b1-b31f-36880dd6a69b.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1600,
+                        "height": 1600,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "8f441e4d-42e5-4058-8ffb-a50fc7d9dc58",
+                        "name": "bb55468a-9938-497f-8821-a1b28067e4ce.jpeg",
+                        "path": "cms/product_variant/bb55468a-9938-497f-8821-a1b28067e4ce.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1600,
+                        "height": 1600,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "defc3418-630d-4f79-b1aa-abe484c4232a",
+                        "name": "3390c333-bc69-4150-bf08-3ca83bde4abe.jpeg",
+                        "path": "cms/product_variant/3390c333-bc69-4150-bf08-3ca83bde4abe.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1600,
+                        "height": 1600,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "1d90837f-77c1-4e8e-8168-1612e8664ddc",
+                        "name": "7b9eea24-b3d9-4309-bdd3-024d6148e3e6.jpeg",
+                        "path": "cms/product_variant/7b9eea24-b3d9-4309-bdd3-024d6148e3e6.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1600,
+                        "height": 1600,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "a145ee99-863a-43f5-9de6-c8e93e724da3",
+                        "name": "b4e404a6-b223-4330-9e0e-b9d1b6a146b2.jpeg",
+                        "path": "cms/product_variant/b4e404a6-b223-4330-9e0e-b9d1b6a146b2.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1600,
+                        "height": 1600,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 6,
+                "shelfLifeInHours": "24 months",
+                "storageInstructions": "",
+                "packagingType": "",
+                "fssaiLicense": "",
+                "nutritionalInfo": "",
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "cuisineType": "",
+                "productTheme": "",
+                "packsizeV2": 1,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 9900,
+            "discountPercent": 0,
+            "discountAmount": 0,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-16T05:58:42.872Z",
+            "outOfStock": true,
+            "mrp": 9900,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 9900,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "da8249ca-4664-443b-bade-3342017c7459",
+                    "isDiscounted": false,
+                    "storeProductId": "04b632c4-9af6-4202-9647-4f875dc07768",
+                    "pricingCampaignType": "PriceUpdate"
+                }
+            ],
+            "primarySubcategoryName": "Liquid Detergents & Additives",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "KILOGRAM",
+            "pricePerUom": 990,
+            "unitOfMeasure": "KILOGRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {},
+            "superSaverSellingPrice": 8800,
+            "primarySubcategoryId": "dfb37880-b40f-4783-9502-a56e12edbabc"
+        },
+        {
+            "objectId": "8b68ebb5-8a2b-4c39-a26f-f4ec10bedd36",
+            "id": "8b68ebb5-8a2b-4c39-a26f-f4ec10bedd36",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "df3b6f87-5dcf-44c0-8580-157ca1d226a6",
+                "name": "Tide Plus Detergent Washing Powder | Lemon & Mint",
+                "brand": "Tide",
+                "imported": false,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [
+                    "",
+                    "",
+                    "",
+                    "Detergent Powder",
+                    "offer",
+                    "detergent powder"
+                ],
+                "howToUse": [],
+                "ingredients": "",
+                "manufacturerName": "Tide",
+                "description": [],
+                "l3CategoryIds": [
+                    "503c63e5-681e-4c02-bce7-e8caf663bf66"
+                ]
+            },
+            "productVariant": {
+                "id": "30d711e7-d0a0-4542-8437-19578f51325f",
+                "mrp": 65900,
+                "packsize": 5,
+                "unitOfMeasure": "KILOGRAM",
+                "weightInGms": 5000,
+                "formattedPacksize": "5 kg",
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "0eff2283-0bf4-4111-bd65-9ff31e856b4a",
+                        "name": "709801e0-a875-4188-8b59-551cd69a8796.jpeg",
+                        "path": "cms/product_variant/709801e0-a875-4188-8b59-551cd69a8796.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "ce57354f-aa55-44d7-9674-ec973e6ea8bb",
+                        "name": "4850d67d-cd34-4b6a-80a1-be76f761a086.jpeg",
+                        "path": "cms/product_variant/4850d67d-cd34-4b6a-80a1-be76f761a086.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "4f317a7d-d4a3-4f50-816c-8d7e3a2692fd",
+                        "name": "1dc8ac84-4ad8-4909-8ea7-05c3f5d4be3e.jpeg",
+                        "path": "cms/product_variant/1dc8ac84-4ad8-4909-8ea7-05c3f5d4be3e.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "f463bbfc-cea0-49a9-88ab-c4ef14e07127",
+                        "name": "d7cd78fd-fba5-4071-94be-cdabf919ca82.jpeg",
+                        "path": "cms/product_variant/d7cd78fd-fba5-4071-94be-cdabf919ca82.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "1a4747c1-b286-495f-8531-ad1c0284b66a",
+                        "name": "c7caac42-8133-4b67-931f-4717e435c29c.jpeg",
+                        "path": "cms/product_variant/c7caac42-8133-4b67-931f-4717e435c29c.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "cc413f8e-97f8-4525-9d7b-9a9c25d24b88",
+                        "name": "5ead6654-4b68-43d2-94b9-e07bdfad6bc5.jpeg",
+                        "path": "cms/product_variant/5ead6654-4b68-43d2-94b9-e07bdfad6bc5.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "7823b66f-ce25-404f-a0a0-530e39f2b4f7",
+                        "name": "ca90bda2-f2c7-497c-b0c7-87a6028dafc0.jpeg",
+                        "path": "cms/product_variant/ca90bda2-f2c7-497c-b0c7-87a6028dafc0.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "967bda05-c64f-49d4-b3bd-9869211ab9f0",
+                        "name": "09900828-1612-4f9f-b273-b56adc889767.jpeg",
+                        "path": "cms/product_variant/09900828-1612-4f9f-b273-b56adc889767.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 6,
+                "shelfLifeInHours": "24 months",
+                "nutritionalInfo": null,
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "packsizeV2": 5,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 58700,
+            "discountPercent": 10,
+            "discountAmount": 7200,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-15T18:03:01.774Z",
+            "outOfStock": true,
+            "mrp": 65900,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 65900,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "0f6ab67d-bae5-421c-9002-567b009f807a",
+                    "isDiscounted": false,
+                    "storeProductId": "8b68ebb5-8a2b-4c39-a26f-f4ec10bedd36",
+                    "pricingCampaignType": "PriceUpdate"
+                },
+                {
+                    "campaignType": "PromoCapping",
+                    "campaignId": "",
+                    "isDiscounted": true,
+                    "storeProductId": "8b68ebb5-8a2b-4c39-a26f-f4ec10bedd36",
+                    "pricingCampaignType": "PromoCapping"
+                }
+            ],
+            "primarySubcategoryName": "Detergent Powder & Bars",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "KILOGRAM",
+            "pricePerUom": 1174,
+            "unitOfMeasure": "KILOGRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {
+                "nonPassDiscountTier": "TIER_2",
+                "nonPassTotalDiscount": 7200
+            },
+            "superSaverSellingPrice": 53800,
+            "primarySubcategoryId": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+        },
+        {
+            "objectId": "2d807e65-d2a5-4a22-930e-158d78ee79fa",
+            "id": "2d807e65-d2a5-4a22-930e-158d78ee79fa",
+            "storeId": "aff88637-57fd-492a-91a6-52c08d65b44b",
+            "product": {
+                "id": "e040885b-3ba9-465e-bb10-f3c386000a7f",
+                "name": "Tide Plus Detergent Washing Powder | Jasmine & Rose",
+                "brand": "Tide",
+                "imported": true,
+                "countryOfOrigin": "India",
+                "minimumRequiredAge": 0,
+                "discountApplicable": true,
+                "searchKeywords": [
+                    "",
+                    "",
+                    "",
+                    "Detergent Powder",
+                    "offer",
+                    "detergent powder"
+                ],
+                "howToUse": [],
+                "ingredients": "",
+                "manufacturerName": "Procter & Gamble",
+                "manufacturerAddress": "Procter & Gamble, Plot No. 1, Industrial Area,Village Katha, Baddi, Dist Solan, Himachal Pradesh - 173 205b. SY 280, Penjerla Village, Kothur Mandal, Ranga Reddy District,Telangana � 509 228.",
+                "description": [],
+                "l3CategoryIds": [
+                    "503c63e5-681e-4c02-bce7-e8caf663bf66"
+                ]
+            },
+            "productVariant": {
+                "id": "63c98776-8895-4526-adf3-6205308fc296",
+                "mrp": 65900,
+                "packsize": 5,
+                "unitOfMeasure": "KILOGRAM",
+                "weightInGms": 4000,
+                "formattedPacksize": "4 kg+1 kg Free",
+                "variantPriority": 10,
+                "isActive": true,
+                "images": [
+                    {
+                        "id": "6b5f8afe-713d-461f-b324-4c3a69fb07de",
+                        "name": "382c3f6f-c79d-46db-ba87-f67fe62cbf1c.jpeg",
+                        "path": "cms/product_variant/382c3f6f-c79d-46db-ba87-f67fe62cbf1c.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "ede8b7c8-e833-4bbb-b901-f14e30798839",
+                        "name": "44a2504d-8ef3-4d04-b435-c366dd445032.jpeg",
+                        "path": "cms/product_variant/44a2504d-8ef3-4d04-b435-c366dd445032.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "66fdbc9d-82cd-4541-8a0b-06627e51a5df",
+                        "name": "be527000-c513-47d6-994b-cd1535740d8d.jpeg",
+                        "path": "cms/product_variant/be527000-c513-47d6-994b-cd1535740d8d.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "2b6c2d8c-fb52-478e-a2d8-75eb4463b95b",
+                        "name": "5b2bcb20-c760-4ef7-a039-7b45ae5bfc82.jpeg",
+                        "path": "cms/product_variant/5b2bcb20-c760-4ef7-a039-7b45ae5bfc82.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "1494b33b-9a9a-4aae-8ad6-ea4af3f79ec0",
+                        "name": "b381afdf-aebf-4677-8c6d-17fb978b9910.jpeg",
+                        "path": "cms/product_variant/b381afdf-aebf-4677-8c6d-17fb978b9910.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "e2f83679-6223-44a8-b071-e56cc138c4d9",
+                        "name": "8f46cb37-c84f-4220-a3f3-4d4809f3f3f1.jpeg",
+                        "path": "cms/product_variant/8f46cb37-c84f-4220-a3f3-4d4809f3f3f1.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "4fd9d3e6-bcab-4875-9ccb-35bdaed7f0c2",
+                        "name": "7de8e683-9a0d-44fa-b139-2fc27b176d69.jpeg",
+                        "path": "cms/product_variant/7de8e683-9a0d-44fa-b139-2fc27b176d69.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    },
+                    {
+                        "id": "e7e42053-45e3-4e55-867e-fa72c05eb2a7",
+                        "name": "21f6321c-31f4-4f18-849f-129080f9fd83.jpeg",
+                        "path": "cms/product_variant/21f6321c-31f4-4f18-849f-129080f9fd83.jpeg",
+                        "mediaType": "IMAGE",
+                        "width": 1200,
+                        "height": 1200,
+                        "videoPath": "",
+                        "lottiePath": "",
+                        "hidePadding": true
+                    }
+                ],
+                "maxAllowedQuantity": 2,
+                "shelfLifeInHours": "24 months",
+                "nutritionalInfo": null,
+                "quantity": 0,
+                "pharmaceuticalInfo": null,
+                "Unlisted": false,
+                "packsizeV2": 5,
+                "l4AttributesResponse": null,
+                "l4Attributes": {
+                    "selfServeReplacementReturnUserCohort": [],
+                    "emiType": ""
+                },
+                "emiEligible": false
+            },
+            "discountedSellingPrice": 65300,
+            "discountPercent": 0,
+            "discountAmount": 600,
+            "availableQuantity": 0,
+            "quantity": 0,
+            "allocatedQuantity": 0,
+            "stockoutThresholdQuantity": 0,
+            "lastUpdatedAt": "2025-02-17T04:54:27.001Z",
+            "outOfStock": true,
+            "mrp": 65900,
+            "productType": "SELLABLESKU",
+            "priority": 10,
+            "cached": true,
+            "isNewProduct": false,
+            "sellingPrice": 65300,
+            "isActive": true,
+            "bundleItems": [],
+            "uclId": null,
+            "recommendationSource": null,
+            "isSponsored": false,
+            "isBestOffer": false,
+            "isPrimary": true,
+            "rollUpIds": [],
+            "bxgyOfferDetails": null,
+            "rollUpVariantsDetails": [],
+            "brandDeliveryOfferDetails": {
+                "offerMessage": "",
+                "offerIconPath": ""
+            },
+            "meta": {
+                "tags": [
+                    {
+                        "type": ""
+                    }
+                ],
+                "tagsV2": {
+                    "P0": {
+                        "id": "479ac2d1-b3e0-494c-bda4-300d124c4b88",
+                        "tagType": "DISCOUNT",
+                        "tagName": "Product Discount",
+                        "position": "P0",
+                        "attachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        },
+                        "pdpAttachment": {
+                            "id": "7f9897d0-a247-4079-af59-da82a6ae7592",
+                            "name": "P0 - Discount.png",
+                            "path": "inventory/product/a61dd64f-be76-4ef6-8df8-802e086ecf56-P0_-_Discount.png",
+                            "mediaType": "IMAGE",
+                            "width": 88,
+                            "height": 36,
+                            "videoPath": "",
+                            "lottiePath": "",
+                            "hidePadding": false
+                        }
+                    }
+                }
+            },
+            "pricingCampaigns": [
+                {
+                    "campaignType": "PriceUpdate",
+                    "campaignId": "7b6029f6-0c51-477d-99be-9818a53bd88a",
+                    "isDiscounted": true,
+                    "storeProductId": "2d807e65-d2a5-4a22-930e-158d78ee79fa",
+                    "pricingCampaignType": "PriceUpdate"
+                }
+            ],
+            "primarySubcategoryName": "Detergent Powder & Bars",
+            "primaryCategoryName": "Cleaning Essentials",
+            "uom": "KILOGRAM",
+            "pricePerUom": 1306,
+            "unitOfMeasure": "KILOGRAM",
+            "experiments": {},
+            "analyticsMeta": {},
+            "isCrossSellEnabled": false,
+            "zeptoPassPricingCampaigns": [],
+            "valueBasedDiscount": {
+                "nonPassDiscountTier": "TIER_2",
+                "nonPassTotalDiscount": 600
+            },
+            "superSaverSellingPrice": 60400,
+            "primarySubcategoryId": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+        }
+    ],
+    "endOfList": true,
+    "previewMode": false,
+    "userSessionId": "f26176e9-98ef-4e14-b241-fd5716ef4d6a",
+    "filters": {
+        "appliedFilters": [],
+        "applicableFilters": []
+    },
+    "meta": {
+        "isPoweredByAtlas": false,
+        "emiEligibleProductsAvailable": false
+    }
+}

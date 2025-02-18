@@ -1,0 +1,50 @@
+{
+    name
+    description
+    categoryId
+    categoryName
+    brandId
+    brandName
+    price
+    discountPrice
+    taxRate
+    currency
+    stock
+    stockStatus
+    reorderLevel
+    variantId
+    variantName
+    color
+    size
+    weight
+    unitOfMeasure
+    imageUrl
+    gallery
+    videoUrl
+    shippingWeight
+    dimensions (length, width, height)
+    shippingClass
+    barcode
+    qrCode
+    supplierId
+    supplierName
+    manufacturerId
+    manufacturerName
+    expirationDate
+    batchNumber
+    warrantyPeriod
+    returnPolicy
+    minOrderQuantity
+    maxOrderQuantity
+    relatedProducts
+    tags
+    metaTitle
+    metaDescription
+    metaKeywords
+    status (active, inactive, discontinued)
+    createdBy
+    updatedBy
+    createdAt
+    updatedAt
+    sku
+}

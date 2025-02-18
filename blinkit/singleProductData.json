@@ -1,0 +1,294 @@
+{
+    "objects": [],
+    "data": {
+        "merchant": null,
+        "variants_info": [],
+        "product": {
+            "rating": 0.0,
+            "video_url": null,
+            "attribute_collection": [
+                {
+                    "attributes": [
+                        {
+                            "title": "Colour",
+                            "url": null,
+                            "detail": null,
+                            "value": "Brown",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Type",
+                            "url": null,
+                            "detail": null,
+                            "value": "Rolling Paper",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Rolling Paper Type",
+                            "url": null,
+                            "detail": null,
+                            "value": "Unbleached",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        }
+                    ],
+                    "title": "Key Information",
+                    "type": "attribute",
+                    "description": null,
+                    "name": "Highlights - Rolling Needs"
+                },
+                {
+                    "attributes": [
+                        {
+                            "title": "Return Policy",
+                            "url": null,
+                            "detail": null,
+                            "value": "The product is non-returnable. For a damaged, defective, expired or incorrect item, you can request a replacement within 24 hours of delivery.  In case of an incorrect item, you may raise a replacement or return request only if the item is sealed/ unopened/ unused and in original condition.",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Packaging Type",
+                            "url": null,
+                            "detail": null,
+                            "value": "Pack",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Unit",
+                            "url": null,
+                            "detail": null,
+                            "value": "1 pack (3 pieces)",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Manufacturer's Address",
+                            "url": null,
+                            "detail": null,
+                            "value": "Stash Pro Papers Block-H, A-56/1 - A, MIDC, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018.",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Marketer\u2019s Address",
+                            "url": null,
+                            "detail": null,
+                            "value": "Rhythm Imports Khasra No 220 Village Ullawas Sector 62 Gurgaon Haryana Gurgaon 122001.",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Country of Origin",
+                            "url": null,
+                            "detail": null,
+                            "value": "India",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Customer Care Details",
+                            "url": null,
+                            "detail": null,
+                            "value": "Email: info@blinkit.com",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "title": "Disclaimer",
+                            "url": null,
+                            "detail": null,
+                            "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented",
+                            "help_text": null,
+                            "type": "shown_to_customer"
+                        },
+                        {
+                            "value": "RISING STAR KOMMERCE PRIVATE LIMITED",
+                            "title": "Seller"
+                        }
+                    ],
+                    "title": "Info",
+                    "type": "attribute",
+                    "description": null,
+                    "name": "Info"
+                }
+            ],
+            "mrp": 80,
+            "priority_image_url": "https://cdn.grofers.com/app/assets/products/large_images/jpeg/0ea28169-a94a-4416-8e51-50213fad5999.jpg?ts=1723622808",
+            "product_meta": null,
+            "has_details": null,
+            "group_name": "",
+            "mapping_id": 188871631,
+            "brand_id": 11564,
+            "offer": "",
+            "sbc_price": null,
+            "b2b_inventory": null,
+            "has_inventory": true,
+            "attributes": {
+                "food_type": "non_food",
+                "product_tag": ""
+            },
+            "badges": [],
+            "unit_type": null,
+            "options": null,
+            "pid_mapping": {},
+            "derived_attributes": null,
+            "pricing_comment": null,
+            "level1_category": [
+                {
+                    "parent_id": 0,
+                    "id": 1982,
+                    "name": "Rolling Paper"
+                }
+            ],
+            "unit_price": null,
+            "name": "Brown Party Cone Rolling Paper by Stash Pro",
+            "priority": "regular",
+            "rating_count": null,
+            "unit": "1 pack (3 pieces)",
+            "line_1": null,
+            "line_2": null,
+            "type": "Rolling Paper",
+            "brand": "Stash Pro",
+            "inventory": 2,
+            "recommended_purchase_quantity": null,
+            "product_badges": [
+                {
+                    "text": "earliest",
+                    "label": "eta",
+                    "bg_color": "#F5F5F5",
+                    "image_url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png",
+                    "text_color": "#263238",
+                    "type": "ETA"
+                }
+            ],
+            "tags": null,
+            "title": null,
+            "price": 80,
+            "incentives": null,
+            "user_message_limit": null,
+            "level0_category": [
+                {
+                    "parent_id": 0,
+                    "id": 229,
+                    "name": "Paan Corner"
+                }
+            ],
+            "rating_star_color": "#D23333",
+            "type_id": 2135,
+            "is_selected": false,
+            "merchant_id": 31791,
+            "pl_flag": null,
+            "eta_product_badge": {
+                "text": "earliest",
+                "label": "eta",
+                "bg_color": "#F5F5F5",
+                "image_url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png",
+                "text_color": "#263238",
+                "type": "ETA"
+            },
+            "eta_tag": {
+                "background_color": "#FFF6C2",
+                "text": "earliest delivery",
+                "text_color": "#000000",
+                "icon_image_uri": "http://cdn.grofers.com/assets/eta-icons/15-mins.png",
+                "background_color_v2": "#F7F7F7",
+                "background_opacity": 1,
+                "icon": "FLASH_ENABLED"
+            },
+            "product_id": 563746,
+            "image_overlay_tags": null,
+            "sbc_enabled": null,
+            "assets": [
+                {
+                    "video_info": null,
+                    "sort_order": -1,
+                    "image_url": "https://cdn.grofers.com/app/assets/products/large_images/jpeg/0ea28169-a94a-4416-8e51-50213fad5999.jpg?ts=1723622808",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                },
+                {
+                    "video_info": null,
+                    "sort_order": 1,
+                    "image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6161e6fa-6b93-4c68-9790-ff0afd2778af.jpg?ts=1723622810",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                },
+                {
+                    "video_info": null,
+                    "sort_order": 2,
+                    "image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0c70161d-54f7-4608-86e8-0eae84a60ac2.jpg?ts=1723622811",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                },
+                {
+                    "video_info": null,
+                    "sort_order": 3,
+                    "image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/31b91a21-4c8b-4ff5-aaab-6784df9fcfc4.jpg?ts=1723622812",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                },
+                {
+                    "video_info": null,
+                    "sort_order": 4,
+                    "image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a2061ed5-0ed3-48b4-bf68-13d583db7841.jpg?ts=1723622813",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                },
+                {
+                    "video_info": null,
+                    "sort_order": 5,
+                    "image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f2c43f51-fe1b-4cef-9871-e54fba8c076c.jpg?ts=1723622814",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                },
+                {
+                    "video_info": null,
+                    "sort_order": 6,
+                    "image_url": "https://cdn.grofers.com/app/images/products/common/customer_care.jpg",
+                    "asset_type": "image",
+                    "video_auto_play": null
+                }
+            ],
+            "variant_attribute_name": null,
+            "variant_meta": null,
+            "rating_count_text": null,
+            "rating_flag": false,
+            "sbc_offer": "",
+            "merchant_type": "Express",
+            "leaf_category": {
+                "parent_id": 0,
+                "id": 1453,
+                "name": "Rolling Needs"
+            },
+            "received_at_ts": null,
+            "reviews": {
+                "reviews_list": [],
+                "show_new_badge": true,
+                "title": "Customer Reviews"
+            },
+            "highlight_images": null,
+            "rating_text_color": "#D23333",
+            "image_url": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6161e6fa-6b93-4c68-9790-ff0afd2778af.jpg?ts=1723622810",
+            "cta": null,
+            "sbc_unit_price": null,
+            "availability_status": "",
+            "group_id": 1082381,
+            "combo_flag": null,
+            "sliding_images": [
+                "https://cdn.grofers.com/app/assets/products/large_images/jpeg/0ea28169-a94a-4416-8e51-50213fad5999.jpg?ts=1723622808",
+                "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6161e6fa-6b93-4c68-9790-ff0afd2778af.jpg?ts=1723622810",
+                "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0c70161d-54f7-4608-86e8-0eae84a60ac2.jpg?ts=1723622811",
+                "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/31b91a21-4c8b-4ff5-aaab-6784df9fcfc4.jpg?ts=1723622812",
+                "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a2061ed5-0ed3-48b4-bf68-13d583db7841.jpg?ts=1723622813",
+                "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f2c43f51-fe1b-4cef-9871-e54fba8c076c.jpg?ts=1723622814",
+                "https://cdn.grofers.com/app/images/products/common/customer_care.jpg"
+            ]
+        }
+    },
+    "success": true,
+    "metadata": null
+}
